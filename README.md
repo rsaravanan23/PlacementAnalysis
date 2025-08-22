@@ -24,7 +24,7 @@ A logistic regression-based tool that analyzes the impact of academic performanc
 
 To use the PlacementAnalysis model, follow these steps: 
 
-1. Clone Repo:
+1. Clone Repo: git clone https://github.com/rsaravanan23/PlacementAnalysis.git
 
 2. Install required packages: pip install -r requirements.txt
 
