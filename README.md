@@ -54,6 +54,14 @@ In this project, we trained and evaluated three logistic regression models to pr
   - Accuracy: 85.0%
   - Precision: 89.0%
   - Recall: 80.0%
+ 
+## Future Plans
+1. **Interactive**
+   - Plan to build a web-based demo where users can input IQ and academic scores and see the predicted placement probability.
+2. **More Model Experimentation**
+   - Plan to try other models for better accuracy and precision(Decision Trees / Random Forest / Gradient Boosting)
+3. **Expand Dataset**
+   - Plan to try and collect more specific data related to this project to enhance the input features 
 
 ## Credits
 
