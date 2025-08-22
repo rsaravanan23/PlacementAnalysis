@@ -30,9 +30,9 @@ To use the PlacementAnalysis model, follow these steps:
     ```
 
 2. Install required packages:
-  '''
-  pip install -r requirements.txt
-  '''
+   ```
+   pip install -r requirements.txt
+   ```
 
 ## Project Findings and Insights
 
